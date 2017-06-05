@@ -1,0 +1,25 @@
+{
+  "name": "angular-dashboard-material",
+  "authors": [
+    "Haihoa Team"
+  ],
+  "description": "Dashboard for angular material projects which is based on angular-dashboard-framework",
+  "main": [
+	"dist/angular-dashboard-framework-tpls.js",
+	"dist/angular-dashboard-framework.css"
+  ],
+  "keywords": [
+    "angular",
+	"dashboard",
+	"material"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/gianthoang/angular-dashboard-material",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
